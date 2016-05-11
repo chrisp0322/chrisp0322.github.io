@@ -11,12 +11,14 @@
 	padding-bottom: 5%;
    }
 
-
+#header {
+	background-color:  #c2c2d6;
+}
 
 header {
 	font-family: 'Martel Sans', sans-serif;
 	font-size: 240%;
-	text-align: center;
+	text-align: left;
 }
 
 p {
